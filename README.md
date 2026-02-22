@@ -1,6 +1,6 @@
 # MovieLens-LightGCN-FuzhouU
 
-**完成的第一篇学术论文开源项目**
+**我完成的第一篇学术论文开源项目**
 
 [![GitHub stars](https://img.shields.io/github/stars/dutyman-sy/MovieLens-LightGCN-FuzhouU)](https://github.com/dutyman-sy/MovieLens-LightGCN-FuzhouU/stargazers)
 [![GitHub license](https://img.shields.io/github/license/dutyman-sy/MovieLens-LightGCN-FuzhouU)](https://github.com/dutyman-sy/MovieLens-LightGCN-FuzhouU/blob/main/LICENSE)
