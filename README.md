@@ -2,8 +2,8 @@
 
 **完成的第一篇学术论文开源项目**
 
-[![GitHub stars](https://img.shields.io/github/stars/[你的GitHub用户名]/MovieLens-LightGCN-FuzhouU)](https://github.com/[你的GitHub用户名]/MovieLens-LightGCN-FuzhouU/stargazers)
-[![GitHub license](https://img.shields.io/github/license/[你的GitHub用户名]/MovieLens-LightGCN-FuzhouU)](https://github.com/[你的GitHub用户名]/MovieLens-LightGCN-FuzhouU/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/[dutyman-sy]/MovieLens-LightGCN-FuzhouU)](https://github.com/[dutyman-sy]/MovieLens-LightGCN-FuzhouU/stargazers)
+[![GitHub license](https://img.shields.io/github/license/[dutyman-sy]/MovieLens-LightGCN-FuzhouU)](https://github.com/[dutyman-sy]/MovieLens-LightGCN-FuzhouU/blob/main/LICENSE)
 
 项目简介
 本项目是福州大学学生王尚宇独立完成的科研实践成果，聚焦“小样本电影评分预测”场景，提出融合**静态注意力权重分配**与**权重稀疏化**的轻量化LightGCN模型，解决传统模型参数冗余、部署成本高的问题。
